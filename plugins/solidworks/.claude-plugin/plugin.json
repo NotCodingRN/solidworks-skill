@@ -1,0 +1,13 @@
+{
+  "name": "solidworks",
+  "description": "Drive SOLIDWORKS on Windows from Claude Code: parts, assemblies, drawings, FEA and Motion, with results checked against hand calculations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "NotCodingRN",
+    "url": "https://github.com/NotCodingRN"
+  },
+  "homepage": "https://github.com/NotCodingRN/solidworks-skill",
+  "repository": "https://github.com/NotCodingRN/solidworks-skill",
+  "license": "MIT",
+  "keywords": ["solidworks", "cad", "fea", "motion-analysis", "mechanical-engineering"]
+}

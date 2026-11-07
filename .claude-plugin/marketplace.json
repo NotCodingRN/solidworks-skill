@@ -1,0 +1,14 @@
+{
+  "name": "notcodingrn-solidworks",
+  "description": "SOLIDWORKS skill for Claude Code",
+  "owner": {
+    "name": "NotCodingRN"
+  },
+  "plugins": [
+    {
+      "name": "solidworks",
+      "source": "./plugins/solidworks",
+      "description": "Drive SOLIDWORKS on Windows from Claude Code: parts, assemblies, drawings, FEA and Motion, with results checked against hand calculations."
+    }
+  ]
+}
